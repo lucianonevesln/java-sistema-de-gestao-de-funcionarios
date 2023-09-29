@@ -78,6 +78,6 @@ http://localhost:8080/servico-gestao-funcionarios/{id}
 http://localhost:8080/servico-gestao-funcionarios/{id}
 ```
 
-11 - Para encerrar o funcionarmento do Docker, basta digitar o "Ctrl + C", via terminal, no diretório onde encontra-se o arquivo "docker-compose.yml".
+11 - Para encerrar o funcionamento do Docker, basta digitar o "Ctrl + C", via terminal, no diretório onde encontra-se o arquivo "docker-compose.yml".
 
 OBS: caso não possua o Docker instalado, basta não alterar o arquivo "spring.profiles.active=test" e seguir os passos a partir do item 4 que a aplicação deve funcionar corretamente, através de banco de dados em memória (H2).
